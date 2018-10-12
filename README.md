@@ -22,6 +22,9 @@
  - glide  图片加载库，帮你解决大部分的图片加载问题
     [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 
+ - 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
+  [https://github.com/huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+
 ## 动画类
 
 ## 算法类
