@@ -31,6 +31,8 @@
 
 - rxjava2 优雅的观察者模式，线程，异步操作好帮手
     [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。 http://www.52im.net/forum-89-1.html
+    [https://github.com/JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
 
 ## Android studio 插件
 - 翻译插件
