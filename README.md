@@ -28,6 +28,7 @@
 ## 音视频图片
 
 ## 其他
+
 - rxjava2 优雅的观察者模式，线程，异步操作好帮手
     [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
