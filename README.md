@@ -9,10 +9,10 @@
  - 图片手势放大缩小等处理
   [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
 
-## 封装框架
+## 第三方框架、封装类
  - 第三方分享登录库 qq wechat sina
     [https://github.com/tsy12321/SocialSDKAndroid](https://github.com/tsy12321/SocialSDKAndroid)
-## 框架类
+## 架构类
 
 ## 动画类
 
