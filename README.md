@@ -20,7 +20,8 @@
     [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
  - glide  图片加载库，帮你解决大部分的图片加载问题
     [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
-
+ - 无敌存在的RecycleView-adapter
+    [https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 ## 动画类
 
 ## 算法类
