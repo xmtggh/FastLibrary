@@ -31,3 +31,7 @@
 - rxjava2 优雅的观察者模式，线程，异步操作好帮手
     [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
+## Android studio 插件
+- 翻译插件
+  [https://github.com/BolexLiu/ReciteWords](https://github.com/BolexLiu/ReciteWords)
+
