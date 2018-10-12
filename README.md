@@ -10,7 +10,8 @@
   [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
  - 超级textview，可以制定多种item
   [https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
-
+- 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
+  [  [https://github.com/huanghaibin-dev/CalendarView](ht](w](https://github.com/huanghaibin-dev/CalendarView)
 ## 第三方框架、封装类
  - 第三方分享登录库 qq wechat sina
     [https://github.com/tsy12321/SocialSDKAndroid](https://github.com/tsy12321/SocialSDKAndroid)
@@ -32,6 +33,8 @@
 
 - rxjava2 优雅的观察者模式，线程，异步操作好帮手
     [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。 http://www.52im.net/forum-89-1.html
+    [https://github.com/JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
 
 ## Android studio 插件
 - 翻译插件
