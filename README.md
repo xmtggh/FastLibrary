@@ -10,7 +10,8 @@
   [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
  - 超级textview，可以制定多种item
   [https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
-
+- 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
+  [  [https://github.com/huanghaibin-dev/CalendarView](ht](w](https://github.com/huanghaibin-dev/CalendarView)
 ## 第三方框架、封装类
  - 第三方分享登录库 qq wechat sina
     [https://github.com/tsy12321/SocialSDKAndroid](https://github.com/tsy12321/SocialSDKAndroid)
