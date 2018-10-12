@@ -16,7 +16,10 @@
     [https://github.com/tsy12321/SocialSDKAndroid](https://github.com/tsy12321/SocialSDKAndroid)
  - 一行代码修改状态栏颜色，兼容性还行
     [https://github.com/msdx/status-bar-compat](https://github.com/msdx/status-bar-compat)
-## 架构类
+ - 小刀@bindview 一键生成findviewbyid
+    [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
+ - glide  图片加载库，帮你解决大部分的图片加载问题
+    [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 
 ## 动画类
 
@@ -25,4 +28,6 @@
 ## 音视频图片
 
 ## 其他
+- rxjava2 优雅的观察者模式，线程，异步操作好帮手
+    [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
