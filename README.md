@@ -39,6 +39,9 @@
     [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。 http://www.52im.net/forum-89-1.html
     [https://github.com/JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
+    
+- 手动调节shape样式，直接生成代码
+   [http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg](http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg)
 
 ## Android studio 插件
 - 翻译插件
