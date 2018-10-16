@@ -27,6 +27,8 @@
   	[https://github.com/huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
  - 一款蓝牙SDK
  	[https://github.com/CoolCsf/BlueToothHelper](https://github.com/CoolCsf/BlueToothHelper)
+ - 动画库Lottie，十分方便实现各种难搞的动画效果
+ 	[https://github.com/airbnb/lottie-android](https://github.com/airbnb/lottie-android)
 ## 动画类
 
 ## 算法类
