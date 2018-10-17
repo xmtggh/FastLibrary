@@ -21,7 +21,14 @@
     [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
  - glide  图片加载库，帮你解决大部分的图片加载问题
     [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
-
+ - 无敌存在的RecycleView-adapter
+ 	[https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+ - 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
+  	[https://github.com/huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+ - 一款蓝牙SDK
+ 	[https://github.com/CoolCsf/BlueToothHelper](https://github.com/CoolCsf/BlueToothHelper)
+ - 动画库Lottie，十分方便实现各种难搞的动画效果
+ 	[https://github.com/airbnb/lottie-android](https://github.com/airbnb/lottie-android)
 ## 动画类
 
 ## 算法类
@@ -34,6 +41,9 @@
     [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。 http://www.52im.net/forum-89-1.html
     [https://github.com/JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
+    
+- 手动调节shape样式，直接生成代码
+   [http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg](http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg)
 
 ## Android studio 插件
 - 翻译插件
