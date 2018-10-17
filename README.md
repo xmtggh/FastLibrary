@@ -14,7 +14,7 @@
   [  [https://github.com/huanghaibin-dev/CalendarView](ht](w](https://github.com/huanghaibin-dev/CalendarView)
 ## 第三方框架、封装类
  - 第三方分享登录库 qq wechat sina
-    [https://github.com/tsy12321/SocialSDKAndroid](https://github.com/tsy12321/SocialSDKAndroid)
+    [https://github.com/smuwjs/SocialSDK](https://github.com/smuwjs/SocialSDK)
  - 一行代码修改状态栏颜色，兼容性还行
     [https://github.com/msdx/status-bar-compat](https://github.com/msdx/status-bar-compat)
  - 小刀@bindview 一键生成findviewbyid
