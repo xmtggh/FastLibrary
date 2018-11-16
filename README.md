@@ -33,6 +33,9 @@
 ## 动画类
  - 动画库Lottie，十分方便实现各种难搞的动画效果
  	[https://github.com/airbnb/lottie-android](https://github.com/airbnb/lottie-android)
+ - svg动画设计网站，帮助开发这设计svg动画效果
+ 	[https://shapeshifter.design/](https://shapeshifter.design/)
+ 
 
 ## 算法类
 
