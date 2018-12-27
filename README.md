@@ -40,7 +40,8 @@
 ## 算法类
 
 ## 音视频图片
-
+ - 图片圆角展示
+    [https://github.com/SheHuan/NiceImageView](https://github.com/SheHuan/NiceImageView)
 ## 其他
 
  - rxjava2 优雅的观察者模式，线程，异步操作好帮手
