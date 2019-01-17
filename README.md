@@ -29,6 +29,8 @@
  	[https://github.com/CoolCsf/BlueToothHelper](https://github.com/CoolCsf/BlueToothHelper)
  - 扫描二维码的开源库，里面自带扫描框，扫描线，可以自定义颜色，图片等功能
  	[https://github.com/mylhyl/Android-Zxing/](https://github.com/mylhyl/Android-Zxing/)
+ - recyclerview 粘性头部的第三方，仿照通讯录分组黏在recyclerview的顶部
+    [https://github.com/qdxxxx/StickyHeaderDecoration](https://github.com/qdxxxx/StickyHeaderDecoration)
 
 ## 动画类
  - 动画库Lottie，十分方便实现各种难搞的动画效果
