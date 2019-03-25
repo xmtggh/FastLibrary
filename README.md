@@ -12,6 +12,14 @@
   [https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
  - 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
   [  [https://github.com/huanghaibin-dev/CalendarView](ht](w](https://github.com/huanghaibin-dev/CalendarView)
+  
+ - recyclerview 粘性头部的第三方，仿照通讯录分组黏在recyclerview的顶部
+    [https://github.com/qdxxxx/StickyHeaderDecoration](https://github.com/qdxxxx/StickyHeaderDecoration)
+- 无敌存在的RecycleView-adapter
+    [https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+ - 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
+  	[https://github.com/huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+
 ## 第三方框架、封装类
  - 第三方分享登录库 qq wechat sina
     [https://github.com/smuwjs/SocialSDK](https://github.com/smuwjs/SocialSDK)
@@ -21,16 +29,12 @@
     [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
  - glide  图片加载库，帮你解决大部分的图片加载问题
     [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
- - 无敌存在的RecycleView-adapter
- 	[https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
- - 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
-  	[https://github.com/huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
  - 一款蓝牙SDK
  	[https://github.com/CoolCsf/BlueToothHelper](https://github.com/CoolCsf/BlueToothHelper)
  - 扫描二维码的开源库，里面自带扫描框，扫描线，可以自定义颜色，图片等功能
  	[https://github.com/mylhyl/Android-Zxing/](https://github.com/mylhyl/Android-Zxing/)
- - recyclerview 粘性头部的第三方，仿照通讯录分组黏在recyclerview的顶部
-    [https://github.com/qdxxxx/StickyHeaderDecoration](https://github.com/qdxxxx/StickyHeaderDecoration)
+ - java websocket库
+ 	[https://github.com/TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)
 
 ## 动画类
  - 动画库Lottie，十分方便实现各种难搞的动画效果
