@@ -57,6 +57,9 @@
     
  - 手动调节shape样式，直接生成代码
    [http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg](http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg)
+   
+ - .9图制作,方便快捷
+ [http://inloop.github.io/shadow4android/](http://inloop.github.io/shadow4android/)
 
 ## Android studio 插件
  - 翻译插件
