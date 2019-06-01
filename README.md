@@ -65,3 +65,7 @@
  - 翻译插件
   [https://github.com/BolexLiu/ReciteWords](https://github.com/BolexLiu/ReciteWords)
 
+
+#Mac 软件云盘地址
+链接: https://pan.baidu.com/s/1X04fjhH0lkZnUgqSm2FAjw 提取码: wquw 复制这段内容后打开百度网盘手机App，操作更方便哦
+
