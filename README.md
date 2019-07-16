@@ -19,6 +19,10 @@
     [https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
  - 日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低！
   	[https://github.com/huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+ - SmartRefreshLayout的目标是打造一个强大，稳定，成熟的下拉刷新框架，并集成各种的炫酷、多样、实用、美观的Header和Footer。 正如名字所说，SmartRefreshLayout是一个“聪明”或者“智能”的下拉刷新布局，由于它的“智能”，它不只是支持所有的View，还支持多层嵌套的视图结构
+  	[https://github.com/scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+
+
 
 ## 第三方框架、封装类
  - 第三方分享登录库 qq wechat sina
