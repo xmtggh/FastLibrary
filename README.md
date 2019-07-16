@@ -61,8 +61,15 @@
     
  - 手动调节shape样式，直接生成代码
    [http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg](http://angrytools.com/android/button/?tdsourcetag=s_pctim_aiomsg)
+   
+ - .9图制作,方便快捷
+ [http://inloop.github.io/shadow4android/](http://inloop.github.io/shadow4android/)
 
 ## Android studio 插件
  - 翻译插件
   [https://github.com/BolexLiu/ReciteWords](https://github.com/BolexLiu/ReciteWords)
+
+
+# Mac 软件云盘地址
+链接: https://pan.baidu.com/s/1X04fjhH0lkZnUgqSm2FAjw 提取码: wquw 复制这段内容后打开百度网盘手机App，操作更方便哦
 
